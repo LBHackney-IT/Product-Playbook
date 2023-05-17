@@ -24,11 +24,11 @@ We work to [GDS service standards](https://www.gov.uk/service-manual/service-sta
 
 The consistent goals and artefacts we would like available for each product can be seen below:
 
-INSERT IMAGE HERE
+![goals and artifacts](../docs/images/where-to-start/1.png)
 
 We intend to create a strategic thread of goals that join our day-to-day tasks back to our user needs and Hackney’s manifesto aims:
 
-INSERT IMAGE HERE
+![strategic thread of goals](../docs/images/where-to-start/2.png)
 
 For support and resources to create these elements, please see the individual guidance in this chapter of the playbook.
 

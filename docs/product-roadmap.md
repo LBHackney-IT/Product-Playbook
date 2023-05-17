@@ -8,7 +8,7 @@ slug: /product-roadmap
 - Our roadmaps will use a Now, Next, Later format - with the time periods for each defined by the product team.
 - The roadmap is intended to be flexible and change to suit changing circumstances or be reprioritised as product teams learn more from data, research and feedback.
 
-INSERT IMAGE
+![product roadmap path](../docs/images/product-roadmap/1.png)
 
 <u>Product Goals</u>
 
@@ -20,11 +20,11 @@ INSERT IMAGE
 
 We intend to create a strategic thread of goals that join our day-to-day tasks back to our user needs and Hackney’s manifesto aims:
 
-INSERT IMAGE
+![goals matched to user needs and hackney manifesto diagram](../docs/images/product-roadmap/2.png)
 
 <u>Creating the roadmap</u>
 
-INSERT IMAGE
+![roadmap diagram](../docs/images/product-roadmap/3.png)
 
 - Creating and prioritising a roadmap should be led by the product manager.
 - It should be a collaborative process involving the product team and key stakeholders.
@@ -37,7 +37,7 @@ INSERT IMAGE
 
 To better understand how we would build a roadmap from our product strategy here is an example.  This is an example of a roadmap for an organisation with the vision ‘A workplace where no employee goes thirsty’:
 
-INSERT IMAGE
+![roadmap example](../docs/images/product-roadmap/4.png)
 
 Each product goal in this example roadmap can map back to multiple strategic goals.The product goals in the roadmap are smaller and easier to achieve in size than the strategic goals. For example the item in the roadmap “Buy the drinks and cups’ is an achievable step towards the bigger goal of “Users are easily able to access and consume a drink at work’.
 
@@ -56,7 +56,7 @@ Each product goal in this example roadmap can map back to multiple strategic goa
 - Impact should be quantified using evidence from research, data and insight. This should help avoid assumptions or pre-existing ideas for solutions.
 - It is important to flag any dependencies within your team and from other teams or services and sequence your roadmap accordingly, collaborating with a Delivery Manager on sequencing is important.
 
-INSERT IMAGE
+![effort vs impact diagram](../docs/images/product-roadmap/5.png)
 
 ## Further Information
 - New idea canvas

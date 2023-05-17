@@ -3,8 +3,9 @@ id: product-strategy
 title: Product Strategy
 slug: /product-strategy
 ---
-## Product Strategy Definition
-INSERT IMAGE
+## Definition
+
+![vision translated into strategy](../docs/images/product-strategy/1.png)
 
 - The product strategy is the proposed approach to how we intend to reach our vision.
 - It is a set of hypotheses that are being prioritised for how we will create value for our residents and Hackney Council.
@@ -16,7 +17,7 @@ INSERT IMAGE
 
 To better understand the aim of a product strategy here is an example. The example shows a product strategy that aims to fulfil the vision of an organisation where no employee goes thirsty.
 
-INSERT IMAGE
+![product strategy example](../docs/images/product-strategy/2.png)
 
 This example shows the goals that the team believes will best achieve their vision. These goals for the product are categorised into user goals, council coals and operational goals and show the different motivations behind the vision. If these goals are achieved the team hypothesises that their vision will be closer to being reached.
 
@@ -44,7 +45,7 @@ This example shows the goals that the team believes will best achieve their visi
 
 We intend to create a strategic thread of goals for our products that join our day-to-day tasks back to our user needs and Hackney’s manifesto aims:
 
-INSERT IMAGE
+![strategic thread diagram](../docs/images/product-strategy/3.png)
 
 <u>Which Goals to Prioritise?</u>
 
@@ -69,7 +70,7 @@ INSERT IMAGE
 - You should quantify impact using evidence from research, data and insight. This should help avoid assumptions about what would be valuable to our users.
 - Look for goals that are higher impact with lower effort, or see how ideas can be adapted to be simplified while still creating high impact.
 
-INSERT IMAGE
+![effort vs impact diagram](../docs/images/product-strategy/4.png)
 
 ## Prioritisation Further Information
 - [Product Plan - What is the KANO Model](https://www.productplan.com/glossary/kano-model/)
@@ -87,7 +88,7 @@ INSERT IMAGE
 
 The Product Strategy (User, Council and Operational goals) should be measurable and achievable.
 
-INSERT IMAGE
+![measuring success](../docs/images/product-strategy/5.png)
 
 - Each goal should have a definition of what success would look like. This should be shown though performance metrics.
 - Performance metrics should ‘have a clear meaning and collect data that tells you how your service is performing against them’ (GDS Service Manual).
@@ -100,7 +101,7 @@ INSERT IMAGE
 
 To better understand how we would measure the success of our strategy here is an example.  This is an example of the measures for an organisation with the vision ‘A workplace where no employee goes thirsty’:
 
-INSERT IMAGE
+![performance measures examples](../docs/images/product-strategy/6.png)
 
 The example shows the measures that map to each goal in the product strategy. These  would aim to show the product team if their approach is actually achieving their strategy and vision like they hoped. These measures won't be a perfect indicator, but used in context with one another they would identify if further research and data is needed to create a more successful service.
 

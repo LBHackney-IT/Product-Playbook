@@ -6,7 +6,7 @@ slug: /product-backlog
 
 The product backlog is a prioritised list of what needs to be done to build or improve the product
 
-INSERT IMAGE
+![backlog diagram](../docs/images/product-backlog/1.png)
 
 <u>Creating the backlog</u>
 
@@ -20,13 +20,13 @@ INSERT IMAGE
 
 To better understand how we would build a backlog from our roadmap here is an example.  This is an example of a roadmap for an organisation with the vision ‘A workplace where no employee goes thirsty’.
 
-INSERT IMAGE
+![backlog example](../docs/images/product-backlog/2.png)
 
 The team would then use the goals in the ‘Now column’ and create the backlog from these goals.
 
 Here is an example of their initial backlog from the first item in their roadmap ‘Select the two main drink providers’:
 
-INSERT IMAGE
+![expanded backlog diagram](../docs/images/product-backlog/3.png)
 
 Breaking down the backlog tasks specific to the first product goal of the roadmap ensures that their work is focused on what is most important. It also enables small achievable tasks to still map back to the bigger aim of achieving their product strategy and vision.
 
@@ -49,7 +49,7 @@ Breaking down the backlog tasks specific to the first product goal of the roadma
 
 We intend to create a strategic thread of goals that join our day-to-day tasks back to our user needs and Hackney’s manifesto aims:
 
-INSERT IMAGE
+![goals matched to user needs and hackney manifesto diagram](../docs/images/product-backlog/4.png)
 
 - The sprint goal is the purpose for the team for the sprint (or next agreed period of time) and communicates the ‘why’ behind the work.
 - It is what the team intends to achieve when the backlog tasks are completed.
