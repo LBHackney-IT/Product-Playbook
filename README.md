@@ -1,28 +1,10 @@
-# Data Platform - Data Dictionary & Playbook
+# Product Playbook
 
-This project is used to generate the [Data Platform Documentation Site](https://lbhackney-it.github.io/Data-Platform-Playbook/).
+This project is used to generate the [Product Playbook Documentation Site](https://lbhackney-it.github.io/Product-Playbook/).
 
 You can edit the pages files directly in this project, which are formatted as .md files and once committed the changes will become visible on the site.
 
-The site is broken down into two sections:
-
-- Data Dictionary
-  - The Data Dictionary contains definitions of Data Entities
-- Playbook
-  - The Playbook contains articles on the processes involved in using the Data Platform
-- Architecture Decision Records
-  - Records of architecture decisions made regarding the platform. _See Architecture Decision Records (ADRs) below_.
-- Technical Spikes (Discovery)
-  - Records of findings around technical investigations concluding in an Architecture Decision Record (ADR).
-
-## Architecture Decision Records (ADRs)
-
-The Data Platform uses Architecture Decision Records (ADRs) to document architecture decisions that have been made.
-They can be found in `pages/architecture-decisions` and contributed to with
-[adr-tools](https://github.com/npryce/adr-tools).
-
-Note: A custom template is provided in this project user `pages/architecture-decisions/templates/template.md`, this is
-automatically picked up by [adr-tools](https://github.com/npryce/adr-tools).
+The Playbook contains articles on the processes involved in the making and using of products at Hackney.
 
 ## Developer Info
 
@@ -46,7 +28,7 @@ npm install --global yarn
 yarn start
 ```
 
-This command starts a local development server which you can view at [http://localhost:3000/Data-Platform-Playbook/](http://localhost:3000/Data-Platform-Playbook/). Most changes are reflected live without having to restart the server.
+This command starts a local development server which you can view at [http://localhost:3000/Product-Playbook/](http://localhost:3000/Product-Playbook/). Most changes are reflected live without having to restart the server.
 
 ### Building static content
 
@@ -58,9 +40,9 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deploying changes
 
-You should open a pull request with your suggested edits, and seek approval from another developer on your changes. New pull request notifications are automatically sent to the `#data-platform-chatops` Slack channel.
+You should open a pull request with your suggested edits, and seek approval from another developer on your changes.
 
-When changes are merged into the `main` branch, they will be automatically deployed to the [Data Platform Documentation Site](https://lbhackney-it.github.io/Data-Platform-Playbook/) via [GitHub actions](https://github.com/LBHackney-IT/Data-Platform-Playbook/actions).
+When changes are merged into the `main` branch, they will be automatically deployed to the [Data Platform Documentation Site](https://lbhackney-it.github.io/Product-Playbook/) via [GitHub actions](https://github.com/LBHackney-IT/Product-Playbook/actions).
 
 To deploy manually you can run:
 

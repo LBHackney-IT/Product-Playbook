@@ -3,7 +3,7 @@ module.exports = {
   tagline:
     "A guide on Hackney's Product practices, and how to follow them",
   url: "https://playbook.hackney.gov.uk/",
-  baseUrl: "/Data-Platform-Playbook/",
+  baseUrl: "/Product-Playbook/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
@@ -47,7 +47,7 @@ module.exports = {
         docs: {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/LBHackney-IT/data-platform-playbook/edit/master/",
+          editUrl: "https://github.com/LBHackney-IT/product-playbook/edit/master/",
         },
         theme: {
           customCss: [require.resolve("./src/docs.scss")],
