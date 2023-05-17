@@ -3,7 +3,7 @@ id: product-strategy
 title: Product Strategy
 slug: /product-strategy
 ---
-## Definition
+## Introduction
 
 ![vision translated into strategy](../docs/images/product-strategy/1.png)
 

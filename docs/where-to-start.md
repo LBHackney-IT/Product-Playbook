@@ -3,6 +3,7 @@ id: where-to-start
 title: Where to start
 slug: /where-to-start
 ---
+## Introduction
 
 At Hackney, we design and deliver products in a consistent but adaptable way. Structure will help us scale up, but we don’t produce documents for documents’ sake.
 

@@ -3,6 +3,7 @@ id: product-backlog
 title: Product Backlog
 slug: /product-backlog
 ---
+## Introduction
 
 The product backlog is a prioritised list of what needs to be done to build or improve the product
 
@@ -16,7 +17,7 @@ The product backlog is a prioritised list of what needs to be done to build or i
 - The product backlog is a tactical tool that can contain user stories, designs, sketches, mock ups, user journeys etc.
 - It should be concise and focused, rather than becoming a ‘wish list’ of lots of items.
 
-**Backlog Example**
+## Backlog Example
 
 To better understand how we would build a backlog from our roadmap here is an example.  This is an example of a roadmap for an organisation with the vision ‘A workplace where no employee goes thirsty’.
 

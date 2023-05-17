@@ -4,6 +4,8 @@ title: Product Roadmap
 slug: /product-roadmap
 ---
 
+## Introduction
+
 - ‘A roadmap is a plan that shows how a product or service is likely to develop over time’ (GDS Service manual).
 - Our roadmaps will use a Now, Next, Later format - with the time periods for each defined by the product team.
 - The roadmap is intended to be flexible and change to suit changing circumstances or be reprioritised as product teams learn more from data, research and feedback.
@@ -33,7 +35,7 @@ We intend to create a strategic thread of goals that join our day-to-day tasks b
 - It can also be helpful to consider the following areas when creating a roadmap: new ideas, product iterations, user issues/feedback, features to scale and ways to improve the quality of your product.
 - Product goals should be able to map back to the Council, User or Operational goals in your strategy, and one product goal can often be mapped back to multiple strategic goals.
 
-**Roadmap Example**
+## Roadmap Example
 
 To better understand how we would build a roadmap from our product strategy here is an example.  This is an example of a roadmap for an organisation with the vision ‘A workplace where no employee goes thirsty’:
 
