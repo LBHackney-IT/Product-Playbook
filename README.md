@@ -4,7 +4,7 @@ This project is used to generate the [Product Playbook Documentation Site](https
 
 You can edit the pages files directly in this project, which are formatted as .md files and once committed the changes will become visible on the site.
 
-The Playbook contains articles on the processes involved in the making and using of products at Hackney.
+The Playbook contains articles on the processes involved in the making and using of products at Hackney, along with the strategy for products in the future.
 
 ## Developer Info
 
