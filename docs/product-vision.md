@@ -16,9 +16,11 @@ To better understand the aim of a product vision here is an example. The example
 
 ![product vision example](../docs/images/product-vision/2.png)
 
+This example vision is bold and ambitious, it could be solved with a number of different approaches and it does not contain a solution. It is important that the vision is created as a result of user needs and a problem statement (the example for these can be found in the [User Needs](user-needs.md) section of the playbook).
+
 ## Creating the Product Vision
 - A vision workshop with the product team and stakeholders can be a good way to collaborate and get buy-in. Following this, the product manager can then refine the vision and ensure it is based on user needs and retains focus.
-- A useful outline for a worksop and steps to co create a vision can be found here from the department of health.
+- A useful outline for a worksop and steps to co create a vision can be found [here](https://digitalhealth.blog.gov.uk/2018/07/25/how-to-co-create-a-vision-statement/) from the department of health.
 - It can also be helpful to use the below vision phrasing templates to refine ideas:
 
 ![vision phrasing](../docs/images/product-vision/3.png)

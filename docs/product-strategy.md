@@ -94,7 +94,7 @@ The Product Strategy (User, Council and Operational goals) should be measurable 
 - Performance metrics should ‘have a clear meaning and collect data that tells you how your service is performing against them’ (GDS Service Manual).
 - As a starting point you should select one performance metric for each of your goals.
 - Review your selected measures to ensure that they are balanced and cover various facets of what is important to your product.
-- The GDS service manual provides helpful advice on creating performance metrics.
+- The GDS service manual provides helpful advice on creating [performance metrics](https://www.gov.uk/service-manual/measuring-success/how-to-set-performance-metrics-for-your-service).
 
 
 **Performance Measures Example**
