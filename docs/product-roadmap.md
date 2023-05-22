@@ -10,7 +10,7 @@ slug: /product-roadmap
 - Our roadmaps will use a Now, Next, Later format - with the time periods for each defined by the product team.
 - The roadmap is intended to be flexible and change to suit changing circumstances or be reprioritised as product teams learn more from data, research and feedback.
 
-![product roadmap path](../docs/images/product-roadmap/1.png)
+![product roadmap](../docs/images/product-roadmap/1.png)
 
 <u>Product Goals</u>
 
@@ -22,7 +22,7 @@ slug: /product-roadmap
 
 We intend to create a strategic thread of goals that join our day-to-day tasks back to our user needs and Hackney’s manifesto aims:
 
-![goals matched to user needs and hackney manifesto diagram](../docs/images/product-roadmap/2.png)
+![goals](../docs/images/product-roadmap/2.png)
 
 <u>Creating the roadmap</u>
 

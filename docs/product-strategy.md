@@ -5,7 +5,7 @@ slug: /product-strategy
 ---
 ## Introduction
 
-![vision translated into strategy](../docs/images/product-strategy/1.png)
+![vision into strategy](../docs/images/product-strategy/1.png)
 
 - The product strategy is the proposed approach to how we intend to reach our vision.
 - It is a set of hypotheses that are being prioritised for how we will create value for our residents and Hackney Council.
@@ -45,7 +45,7 @@ This example shows the goals that the team believes will best achieve their visi
 
 We intend to create a strategic thread of goals for our products that join our day-to-day tasks back to our user needs and Hackney’s manifesto aims:
 
-![strategic thread diagram](../docs/images/product-strategy/3.png)
+![strategic thread of goals](../docs/images/product-strategy/3.png)
 
 ## Which Goals to Prioritise?
 
