@@ -24,8 +24,8 @@ To better understand how user needs should be defined here is an example. The ex
 The user needs get to the core motivations and needs of the user, avoiding solutions. The problem statements ensure that there is clarity in what would make the project a success.
 
 ## Further Information
-- Get in touch with User Researchers at Hackney
-- #design-and-research on Slack
+- [Get in touch with User Researchers at Hackney](mailto:user.research@hackney.gov.uk)
+- [#design-and-research on Slack](https://hackit-lbh.slack.com/archives/CJ6AWTH0A)
 - [Hackney Council Research Library](https://research.localgov.digital/)
 - [GDS Service Manual - Learning about users and their needs](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs)
 - [GDS Service Manual -  User Research](https://www.gov.uk/service-manual/user-research)

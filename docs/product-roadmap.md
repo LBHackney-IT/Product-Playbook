@@ -43,14 +43,14 @@ To better understand how we would build a roadmap from our product strategy here
 
 Each product goal in this example roadmap can map back to multiple strategic goals.The product goals in the roadmap are smaller and easier to achieve in size than the strategic goals. For example the item in the roadmap “Buy the drinks and cups’ is an achievable step towards the bigger goal of “Users are easily able to access and consume a drink at work’.
 
-<u>Roadmap Ideas</u>
+## Roadmap Ideas
 
 - Use the ‘new idea canvas’ to start considering the validity of your ideas for the roadmap, ensuring that they are backed by research and data.
 - If a number of the fields in the canvas are blank or do not support creating value for your users, you could consider generating further ideas or carrying out additional research.
 - It is important to review the selected product ideas to see if they can be made less complex or more achievable. Often a goal can be refined to be more focused but still achieve the vision and bring benefits to users.
 - Use the idea refinement canvas to see if goals can be made smaller or more focused.
 
-<u>Prioritising the roadmap</u>
+## Prioritising the roadmap
 
 - Prioritise your roadmap into now, next and later. The product team can decide the rough time period these relate to.
 - Once ideas have been validated and refined, mapping the effort vs impact of each idea with the product team is a good exercise to start identifying priorities.

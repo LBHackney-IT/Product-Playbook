@@ -22,14 +22,14 @@ To better understand the aim of a product strategy here is an example. The examp
 This example shows the goals that the team believes will best achieve their vision. These goals for the product are categorised into user goals, council coals and operational goals and show the different motivations behind the vision. If these goals are achieved the team hypothesises that their vision will be closer to being reached.
 
 ## Strategic Goals Explained
-<u>User Goals</u>
+## User Goals
 
 - Each product should have two User Goals
 - User Goals should focus on our residents, those who live and work in Hackney
 - These should be short statements about what we want to achieve for our users and what would make it a successful product for them
 - These goals will be our prioritised approach for achieving our vision for our users for the next period of time
 
-<u>Hackney Council Goals</u>
+## Hackney Council Goals
 
 - Hackney Council Goals should be short statements relating to how our product will help support the Council Manifesto and strategic plan.
 - They will take a strategic approach to creating missional and political value from our products.
@@ -37,7 +37,7 @@ This example shows the goals that the team believes will best achieve their visi
   1. How the product will create value for money for our residents, through improving efficiency, flexibility and performance.
   2. How the product will support a a fairer, safer, greener, healthier Hackney.
 
-<u>Operational Goals</u>
+## Operational Goals
 
 - It might be relevant to name operational service goals for the product (no more than two).
 - Often our products will create value to internal staff and colleagues, these goals will state how this product would be a successful product for our services.
@@ -47,7 +47,7 @@ We intend to create a strategic thread of goals for our products that join our d
 
 ![strategic thread diagram](../docs/images/product-strategy/3.png)
 
-<u>Which Goals to Prioritise?</u>
+## Which Goals to Prioritise?
 
 - The product manager is ultimately responsible for deciding which goals to prioritise.
 - It is important to use your user needs and problem statement along with user research, data and market analysis to identify approaches and evidence how they might achieve the vision.
@@ -57,14 +57,14 @@ We intend to create a strategic thread of goals for our products that join our d
 - It is important to review selected goals to see if they can be made smaller or more achievable. Often a goal can be refined to be more focused but still achieve the vision and bring benefits to users.
 - Use the idea refinement canvas to see if goals can be made smaller or more focused.
 
-<u>Prioritisation Models</u>
+## Prioritisation Models
 
 - There are a number of prioritisation models that can be used to aid prioritisation such as The Effort Impact Matrix, RICE, Kano Model and Cost of Delay.
 - These can be helpful to use in workshops with the product team or to challenge assumptions about solutions.
 - These frameworks can enable good conversations, however they can also cause challenges when there is uncertainty and if ideas are scored without evidence or experience.
 - Mapping the impact of the goal against its effort, with the product team, is a good exercise to start identifying priorities.
 
-<u>Effort Vs Impact</u>
+## Effort Vs Impact
 
 - You should engage specialists in the product team to quantify the required effort. In particular you should speak to those who have experience with quantifying the time and energy required for delivering technology.
 - You should quantify impact using evidence from research, data and insight. This should help avoid assumptions about what would be valuable to our users.
@@ -97,7 +97,7 @@ The Product Strategy (User, Council and Operational goals) should be measurable 
 - The GDS service manual provides helpful advice on creating [performance metrics](https://www.gov.uk/service-manual/measuring-success/how-to-set-performance-metrics-for-your-service).
 
 
-**Performance Measures Example**
+##Performance Measures Example
 
 To better understand how we would measure the success of our strategy here is an example.  This is an example of the measures for an organisation with the vision ‘A workplace where no employee goes thirsty’:
 
@@ -105,8 +105,7 @@ To better understand how we would measure the success of our strategy here is an
 
 The example shows the measures that map to each goal in the product strategy. These  would aim to show the product team if their approach is actually achieving their strategy and vision like they hoped. These measures won't be a perfect indicator, but used in context with one another they would identify if further research and data is needed to create a more successful service.
 
-
-**Further Information**
+## Further Information
 - [How to set performance metrics for your service - GDS Service Manual](https://www.gov.uk/service-manual/measuring-success/how-to-set-performance-metrics-for-your-service)
 
 

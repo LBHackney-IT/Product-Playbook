@@ -9,7 +9,7 @@ The product backlog is a prioritised list of what needs to be done to build or i
 
 ![backlog diagram](../docs/images/product-backlog/1.png)
 
-<u>Creating the backlog</u>
+## Creating the backlog
 
 - The product backlog needs to be derived from the product roadmap.
 - The backlog should comprise the tasks needed to be done to achieve the product goals in the ‘now’ section of the roadmap.
@@ -31,14 +31,14 @@ Here is an example of their initial backlog from the first item in their roadmap
 
 Breaking down the backlog tasks specific to the first product goal of the roadmap ensures that their work is focused on what is most important. It also enables small achievable tasks to still map back to the bigger aim of achieving their product strategy and vision.
 
-<u>Prioritising the backlog</u>
+## Prioritising the backlog
 
 - Prioritise the items that you have more certainty about, to achieve the product goal with the least amount of effort.
 - Data and research should be used to identify items that would most likely achieve the product goal. The product team can then identify and inform the level of effort.
 - It is important for product managers to say ‘no’ to backlog items that do not contribute to the product goal and therefore wouldn’t help meet the product strategy and vision.
 - It can also be important to identify higher risk items that might need to be worked on sooner.
 
-<u>Refining the backlog</u>
+## Refining the backlog
 
 - High priority items should be at the top of the backlog, and be in a detailed ‘ready’ state.
 ‘Ready’ items are clear and understood by the team, testable with acceptance criteria and be small/not too complicated so that they can be completed in the sprint.
@@ -46,7 +46,7 @@ Breaking down the backlog tasks specific to the first product goal of the roadma
 - The product team should contribute to refining and prioritising the backlog and using their specialist knowledge to inform on activities, dependencies and risks to inform backlog items.
 - The product backlog should change over time, especially as data, insight and user research is reviewed. This should influence the creation of new items and the removal of less relevant tasks.
 
-<u>Sprint Goals</u>
+## Sprint Goals
 
 We intend to create a strategic thread of goals that join our day-to-day tasks back to our user needs and Hackney’s manifesto aims:
 

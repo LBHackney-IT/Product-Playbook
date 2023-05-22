@@ -4,7 +4,8 @@ title: How to Use the Playbook
 slug: /
 ---
 
-Our vision for digital and technology products and services at Hackney is:
+## Our vision for digital and technology products and services at Hackney is:
+
 Digital products that reduce time and effort for residents to get the services they need and inspire confidence in the council.
 
 
@@ -20,4 +21,4 @@ Digital products that reduce time and effort for residents to get the services t
 
 - Examples and templates to help think strategically about building products at Hackney
 
-- Resources for further information and reading 
+- Resources for further information and reading
