@@ -30,7 +30,7 @@ module.exports = {
     },
     algolia: {
       appId: "KNMFHOJ4X2",
-      apiKey: '4dc9b48c851c09d44e9cf356d5425867',
+      apiKey: '456b3d37a688509c71d330eab3ba3b99',
       indexName: 'hackney',
       placeholder: 'Search playbook'
     },
