@@ -20,6 +20,8 @@ The strategy outlines Hackney Council’s product vision and desired outcomes, a
 
 ## Product Strategy 2022 - 2024
 
+![Freepikimage](../docs/images/HC-product-strategy/vision.png)
+
 Our vision for products at Hackney:
 
 **Digital products that reduce time and effort for residents to get the services they need and inspire confidence in the council.**
@@ -34,12 +36,14 @@ Our vision for products at Hackney:
 <u>Our four areas of focused work for 2022-2024</u>
 
 1. Strategic **product leadership**.
-2. Improve our processes and practices so that we **build the right things**.
+2. Improve our **product management** processes and practices so that we build the right things.
 3. Creating the conditions for success through **establishing our product function**.
 4. Build a **skilled and engaged team** of product professionals.
 
 
 1. **Product Leadership**
+
+![Freepikimage](../docs/images/HC-product-strategy/ProductLeadership.png)
 
 Championing digital, data and technology across the council and creating the right conditions for collaborative working.
 
@@ -57,7 +61,9 @@ Championing digital, data and technology across the council and creating the rig
 - Alignment of our digital products with the council’s strategic plan and ICT goals giving a focused, measurable and consistent approach to our work.
 - Colleagues outside of ICT recognise how digital products support their council services.
 
-2.  **Building the right things**
+2.  **Product Management**
+
+![Freepikimage](../docs/images/HC-product-strategy/ProductManagement.png)
 
 Products that focus on the biggest problems to solve, where we can have the greatest impact, with the needs of the resident at the heart of everything we do.
 
@@ -79,6 +85,8 @@ Products that focus on the biggest problems to solve, where we can have the grea
 
 3. **Establishing our product function**
 
+![Freepikimage](../docs/images/HC-product-strategy/ProductFunction.png)
+
 The right environment, tools and resources for product teams to succeed.
 
 <u>We will do this by:</u>
@@ -99,6 +107,8 @@ The right environment, tools and resources for product teams to succeed.
 
 4. **Skilled and engaged teams**
 
+![Freepikimage](../docs/images/HC-product-strategy/SkilledTeam.png)
+
 Skilled product teams empowered to deliver good work, in an efficient and collaborative manner.
 
 <u>We will do this by:</u>
@@ -117,6 +127,8 @@ Skilled product teams empowered to deliver good work, in an efficient and collab
 - Maximum value from agencies and contractors.
 
 ## Conditions for success
+
+![Freepikimage](../docs/images/HC-product-strategy/ConditionsForSuccess.png)
 
 In order to achieve our strategy we need:
 
@@ -145,7 +157,7 @@ Multidisciplinary product teams are different sizes and reflect the skills neede
 - Business Analyst
 - Content Designer
 
-In summary, our product strategy gives us a vision, goals and deliverables to provide value for money to our residents, through our four key areas: product leadership, building the right things, establishing our product function and creating skilled and engaged teams.
+In summary, our product strategy gives us a vision, goals and deliverables to provide value for money to our residents, through our four key areas: product leadership, product management, establishing our product function and creating skilled and engaged teams.
 
 By improving efficiency, flexibility and performance, and using data and insight to monitor the impact of our work, we can contribute to Hackney’s strategic aims for our residents.
 
@@ -153,3 +165,4 @@ Our new target operating model enables growth, through refined and consistent pr
 
 Always working with residents at the heart of what we do, we’ll focus on the biggest problems to solve where we can have the greatest impact.
 
+_Images on this page are from [Visualization](https://www.flaticon.com/free-icons/visualization) icons created by Freepik - Flaticon_

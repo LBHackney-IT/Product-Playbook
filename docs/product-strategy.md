@@ -51,11 +51,11 @@ We intend to create a strategic thread of goals for our products that join our d
 
 - The product manager is ultimately responsible for deciding which goals to prioritise.
 - It is important to use your user needs and problem statement along with user research, data and market analysis to identify approaches and evidence how they might achieve the vision.
-- Use Hackney’s  ‘New Idea Canvas’ to start mapping out the validity of your potential goals.
+- Use Hackney’s [‘New Idea Canvas’](https://miro.com/app/board/uXjVPpbQeSQ=/?share_link_id=600539960503) to start mapping out the validity of your potential goals.
 - If a number of the fields in the New Idea Canvas are blank or do not support creating value for your users, it could be worth generating further ideas or carrying out additional research.
 - Use your vision, user needs and problem statements to challenge each goal idea to ensure they really are focused on creating benefits for our users.
 - It is important to review selected goals to see if they can be made smaller or more achievable. Often a goal can be refined to be more focused but still achieve the vision and bring benefits to users.
-- Use the idea refinement canvas to see if goals can be made smaller or more focused.
+- Use the [idea refinement canvas](https://miro.com/app/board/uXjVPpbQeSQ=/?share_link_id=600539960503) to see if goals can be made smaller or more focused.
 
 ## Prioritisation Models
 
@@ -77,8 +77,8 @@ We intend to create a strategic thread of goals for our products that join our d
 - [Intercom - RICE Simple Prioritisation for Product Managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
 
 ## Goal Further Information
-- New Idea Canvas
-- Idea Refinement Canvas
+- [New Idea Canvas](https://miro.com/app/board/uXjVPpbQeSQ=/?share_link_id=600539960503)
+- [Idea Refinement Canvas](https://miro.com/app/board/uXjVPpbQeSQ=/?share_link_id=600539960503)
 - [Scott Colfer - How do we measure value without profit?](https://scottcolfer.com/2019/03/19/value-without-profit.html)
 - [Roman Pichler - Leading through shared goals](https://www.romanpichler.com/blog/leading-through-shared-goals/)
 - [Roman Pichler - Product goals in scrum](https://www.romanpichler.com/blog/product-goals-in-scrum/)
@@ -97,7 +97,7 @@ The Product Strategy (User, Council and Operational goals) should be measurable 
 - The GDS service manual provides helpful advice on creating [performance metrics](https://www.gov.uk/service-manual/measuring-success/how-to-set-performance-metrics-for-your-service).
 
 
-##Performance Measures Example
+## Performance Measures Example
 
 To better understand how we would measure the success of our strategy here is an example.  This is an example of the measures for an organisation with the vision ‘A workplace where no employee goes thirsty’:
 

@@ -61,8 +61,8 @@ Each product goal in this example roadmap can map back to multiple strategic goa
 ![effort vs impact diagram](../docs/images/product-roadmap/5.png)
 
 ## Further Information
-- New idea canvas
-- Idea refinement canvas
+- [New idea canvas](https://miro.com/app/board/uXjVPpbQeSQ=/?share_link_id=600539960503)
+- [Idea refinement canvas](https://miro.com/app/board/uXjVPpbQeSQ=/?share_link_id=600539960503)
 - [GDS Service Manual - Developing a Roadmap](https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap)
 - [Roman Pichler - Product Goals in Scrum](https://www.romanpichler.com/blog/product-goals-in-scrum/)
 - [Intercom - Where do product roadmaps come from?](https://www.intercom.com/blog/where-do-product-roadmaps-come-from/)
