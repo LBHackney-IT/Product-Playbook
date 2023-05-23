@@ -37,7 +37,7 @@ module.exports = {
     footer: {
       style: "dark",
       links: [],
-      copyright: `Made by HackIT.`,
+      copyright: `Made by Hackney ICT`,
     },
   },
   presets: [

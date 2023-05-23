@@ -4,7 +4,7 @@ module.exports = {
     {
       type: "category",
       label: "Product At Hackney",
-      items: ["how-to-use-the-playbook", "hackney-council-product-strategy"],
+      items: ["product-playbook", "hackney-council-product-strategy"],
     },
     {
       type: "category",
