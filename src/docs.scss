@@ -84,6 +84,9 @@ html[data-theme="dark"] .navbar__logo {
   left: var(--ifm-pre-padding);
 }
 
+//HC product strategy
+img[alt="Freepikimage"] {width: 10em;}
+
 // where to start
 img[alt="strategic thread of goals"] {width: 40em; padding-left: 20em;}
 
@@ -97,10 +100,11 @@ img[alt="vision phrasing"] {width: 45em; padding-left: 10em;}
 
 // product strategy
 img[alt="vision into strategy"] {width: 45em; padding-left: 10em;}
-
+img[alt="measuring success"] {width: 45em; padding-left: 10em;}
 // product roadmap
 img[alt="product roadmap"] {width: 35em; padding-left: 10em;}
 
 // product backlog
 img[alt="backlog diagram"] {width: 40em; padding-left: 10em;}
 img[alt="goals"] {width: 40em; padding-left: 20em;}
+img[alt="expanded backlog diagram"] {width: 40em; padding-left: 10em;}
