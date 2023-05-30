@@ -13,18 +13,21 @@
     "format": "yarn prettier --write '**/*.{js,md}'"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.20",
-    "@docusaurus/preset-classic": "^2.0.0-beta.20",
+    "@docusaurus/core": "^2.4.1",
+    "@docusaurus/preset-classic": "^2.4.1",
     "@mdx-js/react": "^1.6.21",
     "bootstrap": "^5.2.3",
     "clsx": "^1.1.1",
     "docusaurus-plugin-sass": "^0.2.3",
+    "got": "11.8.5",
     "prettier": "^2.4.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",
     "sass": "^1.42.1",
     "sirv": "^2.0.3",
+    "trim": "0.0.3",
+    "why": "^0.6.2",
     "with": "^7.0.2"
   },
   "browserslist": {
