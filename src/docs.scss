@@ -101,6 +101,7 @@ img[alt="vision phrasing"] {width: 45em; padding-left: 10em;}
 // product strategy
 img[alt="vision into strategy"] {width: 45em; padding-left: 10em;}
 img[alt="measuring success"] {width: 45em; padding-left: 10em;}
+
 // product roadmap
 img[alt="product roadmap"] {width: 35em; padding-left: 10em;}
 
@@ -108,3 +109,24 @@ img[alt="product roadmap"] {width: 35em; padding-left: 10em;}
 img[alt="backlog diagram"] {width: 40em; padding-left: 10em;}
 img[alt="goals"] {width: 40em; padding-left: 20em;}
 img[alt="expanded backlog diagram"] {width: 40em; padding-left: 10em;}
+
+@media screen and (max-width: 996px) {
+  //Where to start
+  img[alt="strategic thread of goals"] {width: 40em; padding-left: 5em;}
+
+  // product vision
+  img[alt="product vision example"] {width: 40em; padding-left: 3em; padding-right: 3em}
+  img[alt="vision phrasing"] {width: 40em; padding-left: 3em; padding-right: 3em}
+
+  // product strategy
+  img[alt="vision into strategy"] {width: 40em; padding-left: 3em; padding-right: 3em}
+  img[alt="measuring success"] {width: 40em; padding-left: 3em; padding-right: 3em}
+
+  // product roadmap
+  img[alt="product roadmap"] {width: 40em; padding-left: 3em; padding-right: 3em}
+  img[alt="goals"] {width: 40em; padding-left: 3em; padding-right: 3em}
+
+  // product backlog
+  img[alt="backlog diagram"] {width: 40em; padding-left: 3em; padding-right: 3em}
+  img[alt="expanded backlog diagram"] {width: 40em; padding-left: 3em; padding-right: 3em}
+}
