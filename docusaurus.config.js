@@ -3,7 +3,7 @@ module.exports = {
   tagline:
     "A guide on Hackney's Product practices, and how to follow them",
   url: "https://playbook.hackney.gov.uk/",
-  baseUrl: "/product-playbook/",
+  baseUrl: "/Product-Playbook/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
