@@ -9,6 +9,7 @@ module.exports = {
     {
       type: "category",
       label: "How We Work",
+      collapsed: false,
       items: ["where-to-start", "user-needs", "product-vision", "product-strategy", "product-roadmap", "product-backlog"],
     },
   ],
