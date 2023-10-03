@@ -10,7 +10,7 @@ module.exports = {
       type: "category",
       label: "How We Work",
       collapsed: false,
-      items: ["where-to-start", "user-needs", "product-vision", "product-strategy", "product-roadmap", "product-backlog"],
+      items: ["where-to-start", "roles-and-responsibilities", "user-needs", "product-vision", "product-strategy", "product-roadmap", "product-backlog"],
     },
   ],
 };
